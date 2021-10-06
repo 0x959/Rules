@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,inappcheck.itunes.apple.com
