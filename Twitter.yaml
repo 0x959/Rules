@@ -3,3 +3,4 @@ payload:
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,t.co
